@@ -4,7 +4,7 @@
 
 - [File Permissions in Linux](https://github.com/effiompraise/File-Permissions-in-Linux)
 - [Azure / Cloud Projects](https://github.com/dayohassan/Azure-Cloud-Soc)
-- [Vulnerability Management with OpenVAS](https://github.com/effiompraise/OpenVAS)
+- [Vulnerability Management with OpenVAS](https://github.com/dayohassan/Vulnerability-Management/tree/main)
 
 <h2>🖥️ IT Projects:</h2>
 

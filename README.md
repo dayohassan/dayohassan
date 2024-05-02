@@ -16,20 +16,15 @@
 - [Cybersecurity Masterclass: SOC Analyst](https://app.kajabi.com/certificates/09c5ab88)
 - [Cyber Threat Hunting](https://issuer.gutenbergcerts.com/pdf/20230119-ACTI-kb00_5c37498e-95ec-4ce2-8ae0-33047b5d8321.pdf)
 
-<h2>📺 YouTube Videos</h2>
-
-- [Vulnerability Management with OpenVAS](https://youtu.be/AWqZiFHunkk?feature=shared)
-
 
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="PraiseEffiom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="PraiseEffiom | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="SheriffAlhassan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SheriffAlhassan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 
-[YouTube]: https://www.youtube.com/@Cyber_Praise
-[linkedin]: https://linkedin.com/in/praiseeffiom
+[linkedin]: https://linkedin.com/in/sheriffalhassan
 
 
 

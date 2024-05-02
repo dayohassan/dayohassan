@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [File Permissions in Linux](https://github.com/effiompraise/File-Permissions-in-Linux)
-- [Azure / Cloud Projects](https://github.com/effiompraise/Azure-Cloud-SOC)
+- [Azure / Cloud Projects](https://github.com/dayohassan/Azure-Cloud-Soc)
 - [Vulnerability Management with OpenVAS](https://github.com/effiompraise/OpenVAS)
 
 <h2>🖥️ IT Projects:</h2>

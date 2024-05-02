@@ -8,7 +8,7 @@
 
 <h2>🖥️ IT Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/effiompraise/ActiveDirectoryLab/tree/main)
+- [Active Directory Home Lab](https://github.com/dayohassan/ActiveDirectoryLab)
 
 <h2>👨🏾‍💻 Web Development:</h2>
 

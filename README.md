@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sheriff Alhassan! <a href="https://www.linkedin.com/in/sheriffalhassan/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/sheriffalhassan/">Implementation Project Manager</a>, <a href="https://github.com/dayohassan/updatedportfolio/tree/master">Web Developer</a>
+<h1>Hi, I'm Sheriff Alhassan! <a href="https://www.linkedin.com/in/sheriffalhassan/">Cybersecurity Professional</a>, <a href="https://www.linkedin.com/in/sheriffalhassan/">IT Project Manager</a>, <a href="https://github.com/dayohassan/updatedportfolio/tree/master">Web Developer</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
